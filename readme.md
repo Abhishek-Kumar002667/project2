@@ -1,2 +1,2 @@
 # New project
-this project was created form local systemc
+this project was created form local systemc.
